@@ -1,0 +1,26 @@
+Hello, we are sorry but the controls button doesn't work, here are the controls:
+
+MOUSE AND KEYBOARD
+
+W = Walk Forward
+S = Walk Bckwards
+A = Walk Left
+D = Walk Right
+Space Bar = Jump
+Left Ctrl = Sprint
+Shift = Crouch
+Left Mouse Button = Shoot
+W/S/A/D andJump = Dash (every 10 seconds)
+Move your mouse to turn your visual
+
+
+CONTROLLER
+
+Left Thumbstick = Move
+Right Thumbstick = Visual turn
+A Button = Jump
+Right Thumbstick Button = Crouch
+Left Thumbstick Button = Sprint
+Right Trigger = Shoot
+Left Thummbstick and A Button = Dash (every 10 seconds)
+I am sorry for vibrations, there will be a way to turn them off
